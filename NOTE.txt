@@ -1,4 +1,0 @@
-Files in this directory is not accessed directly, but get access by http://en.coscup.org/2008/ with rewrite.
-This simulates virtual host which we cannot set up.
-
-~ timdream
